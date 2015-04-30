@@ -1,0 +1,21 @@
+Building: RRingworldLv2
+	Name: #BLD_RRINGWORLD_LV2
+	Description: #BLD_RRINGWORLD_LV2_DESC
+	Sprite: rrlv2
+
+	Category: Resource
+
+	Size: 8x8
+	Base Cost: 1500
+
+	Build Time: 360
+	Tile Maintenance: 100
+
+	ConsumeCargo(Ore, 4000)
+
+	AddPressure(Research, 4)
+	AddPressure(Influence, 4)
+	AddPressure(Money, 2)
+	RequireStatus(ReclusiveRingworlder)
+	RequireStatus(Ringworld)
+	AddDummyResource(Neutronium, 1)

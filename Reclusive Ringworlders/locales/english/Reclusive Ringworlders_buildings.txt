@@ -1,0 +1,16 @@
+BLD_RRINGWORLD_LV1_DESC: <<
+	A specialized processing plant that can replace one of the ringworlders' tier 1 resource requirements.  Produces a little labor, energy and defense pressure.
+
+	No maintenance if placed entirely on developed space, but very large.
+
+	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
+>>
+BLD_RRINGWORLD_LV1: Tier 1 Processing Plant
+BLD_RRINGWORLD_LV2: Tier 2 Processing Plant
+BLD_RRINGWORLD_LV2_DESC: <<
+	A specialized processing plant that can replace one of the ringworlders' tier 2 resource requirements. Produces a little influence, research and money pressure.
+
+	No maintenance if placed entirely on developed space, but extremely large.
+
+	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
+>>

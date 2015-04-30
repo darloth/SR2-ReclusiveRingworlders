@@ -1,0 +1,21 @@
+Building: RRingworldLv1
+	Name: #BLD_RRINGWORLD_LV1
+	Description: #BLD_RRINGWORLD_LV1_DESC
+	Sprite: FakeLV1
+
+	Category: Resource
+
+	Size: 6x6
+	Base Cost: 1000
+
+	Build Time: 240
+	Tile Maintenance: 100
+
+	ConsumeCargo(Ore, 2000)
+
+	AddPressure(Energy, 1)
+	AddPressure(Defense, 2)
+	AddPressure(Labor, 1)
+	RequireStatus(ReclusiveRingworlder)
+	RequireStatus(Ringworld)
+	AddDummyResource(Titanium, 1)

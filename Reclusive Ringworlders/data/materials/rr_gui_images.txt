@@ -1,0 +1,4 @@
+Material: rrlv2
+	Inherit: Image2D
+	LoadPriority: Game
+	Texture: data/images/buildings/rrlv2.png
