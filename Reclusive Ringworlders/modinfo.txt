@@ -2,6 +2,8 @@
 	Description: <<
 		This lifestyle starts on a ringworld, but cannot normally colonize planets.  Instead they build huge orbital mining platforms which strip-mine the world, instantly exporting any level of resource but also permanently damaging the planet.  They can build additional ringworlds to expand, but must build up the economic infrastructure to do so before they run out of planets!  Most likely the general populace of this race never wishes to see or think about the outside stars, and are more than content to enjoy all of the luxuries imported in the privacy and comfort of their home ring.
 
+		Additional structures can be constructed on ringworlds which satisfy tiered resource upgrade requirements and add a little pressure, but they are very large and require ore and time.
+
 		For game mechanical purposes, they do send population to the mining worlds - but you are welcome to view these as robots, exiles, or virtuals. These never grow and are doomed to a grisly fate when the integrity of the planets finally fails and they collapse into asteroid belts.
 
 		Credit: This mod was inspired by a request from Lerksand, from the Blind Mind Studios forum, and would probably not exist without said request.  It's not exactly as envisaged but seems to be playable this way.

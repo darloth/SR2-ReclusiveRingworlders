@@ -8,6 +8,7 @@ Trait: ReclusiveRingworlders
 
 	Category: Lifestyle
 	Unique: Lifestyle
+	AI Support: False
 
 	TriggerHomeworld(DestroySystemPlanet(1, Quiet = True))
 	TriggerHomeworld(DestroySystemPlanet(2, Quiet = True))
@@ -15,7 +16,7 @@ Trait: ReclusiveRingworlders
 	TriggerHomeworld(SpawnPlanet(Ringworld, Owned = True, Add Status = RRInitialRingworld, Radius = 750, Physics = False))
 
 	ModEmpireAttribute(CivBldConstructionRate, AddFactor, 0.25)
-	ModEmpireAttribute(PopulationGrowthFactor, AddFactor, 1)
+	ModEmpireAttribute(PopulationGrowthFactor, AddFactor, 0.75)
 	SetColonizerInfo(Name = Exploitation Vessel)
 	ModAttribute(PopulationPerColonizer, Multiply, 16)
 	ReplaceTechnologyNodes(OrbArtificialPlanetoid, ImpFactoryLabor2)
