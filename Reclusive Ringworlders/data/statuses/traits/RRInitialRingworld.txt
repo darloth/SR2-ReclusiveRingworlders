@@ -4,11 +4,14 @@ Status: RRInitialRingworld
 
 
 
+	AddResource(Defense, 2)
+	OnEnable(SpawnBuilding(Factory, (4, 6), Develop = True))
+	OnEnable(SpawnBuilding(LargeDefenseGrid, (18,4), Develop = True))
 	OnEnable(ringworlders::SetAsHome())
 	IsHomeObject()
-	OnEnable(SpawnBuilding(PlanetaryCannon, (12, 0), Develop = True))
-	OnEnable(GivePopulation(2))
-	OnEnable(SpawnBuilding(Factory, (4, 3), Develop = True))
+	OnEnable(SpawnBuilding(PlanetaryCannon, (12, 4), Develop = True))
+	OnEnable(GivePopulation(4))
+	OnEnable(SpawnBuilding(Factory, (4, 1), Develop = True))
 	AddStatus(Ringworld)
-	AddDummyResource(Water, 1)
-	AddDummyResource(Meat, 1)
+	AddDummyResource(Water, 2)
+	AddDummyResource(Meat, 2)

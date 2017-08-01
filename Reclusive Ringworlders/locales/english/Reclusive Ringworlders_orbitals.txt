@@ -1,1 +1,6 @@
 ORB_EXP_PLATFORM: Exploitation Platform
+ORB_EXP_PLATFORM_DESC: <<
+	This gargantuan orbital structure is filled with robots, convicts, or virtual labor, and uses them to ruthlessly exploit the resource base of whatever planet it is orbiting.
+
+	This permanently damages the planet, but makes its resource immediately available for export, and also generates ore for the orbiting platform.
+>>

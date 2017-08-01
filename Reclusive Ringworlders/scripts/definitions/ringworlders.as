@@ -1,6 +1,6 @@
 import attributes;
 import hooks;
-import bonus_effects;
+from bonus_effects import EmpireTrigger;
 
 class SetAsHome : EmpireTrigger {
 	Document doc("Sets the empire home to the object.");
